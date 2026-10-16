@@ -1,0 +1,45 @@
+
+.light {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.dark {
+  background-color: #222222;
+  color: #ffffff;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+form, div, ul {
+  margin: 20px 0;
+}
+
+input {
+  margin-right: 5px;
+  padding: 5px;
+}
+
+button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+.modal-box {
+  position: fixed;
+  top: 35%;
+  left: 40%;
+  background-color: #ffffff;
+  color: #000000;
+  border: 3px solid #ff0000;
+  padding: 25px;
+  text-align: center;
+  z-index: 10;
+}

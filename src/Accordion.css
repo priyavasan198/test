@@ -1,0 +1,7 @@
+.head{
+    width: 100px;
+    background-color:rgb(73, 129, 185);
+    padding: 6px;
+    font-size: 12px;
+    cursor: pointer;
+}

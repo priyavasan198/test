@@ -1,0 +1,21 @@
+input{
+    width: 50%;
+    margin:2%;
+    border:none;
+}
+form{
+    width:50%;
+    border:1px rgb(234, 97, 199);
+    padding: 3px;
+    margin-left: 10px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+button{
+    background-color: rebeccapurple;
+    color: aliceblue;
+    margin-left: 100px;
+}
+toggle{
+    margin-left: 25%;
+}
